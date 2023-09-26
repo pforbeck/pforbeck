@@ -1,4 +1,3 @@
-### 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Cg41tz5aEc7vCio8Zn/giphy.gif" width="100"/>
   <div id="badges">
@@ -12,6 +11,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 - 🔭 I’m currently working on graduating from the University of Wisconsin - Whitewater.
@@ -19,6 +21,10 @@
 - 📫 How to reach me: pat@forbeck.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Quadruplet.
+---
+
+### My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforbeck&theme=github-dark)](https://git.io/streak-stats)
 
 <!--
 **pforbeck/pforbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
