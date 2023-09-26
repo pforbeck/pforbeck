@@ -24,7 +24,7 @@
 ---
 
 ### My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforbeck&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pforbeck&theme=github-dark&border=0A0C10&background=0A0C10)](https://git.io/streak-stats)
 
 <!--
 **pforbeck/pforbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
