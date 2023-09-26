@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on graduating from the University of Wisconsin - Whitewater.
+- 🌱 I’m currently learning Deep Rock Galactic modding.
+- 📫 How to reach me: pat@forbeck.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a Quadruplet.
 <!--
 **pforbeck/pforbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
