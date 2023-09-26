@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Cg41tz5aEc7vCio8Zn" width="100"/>
+  <img src="https://media.giphy.com/media/Cg41tz5aEc7vCio8Zn/giphy.gif" width="100"/>
 </div>
 
 - 🔭 I’m currently working on graduating from the University of Wisconsin - Whitewater.
