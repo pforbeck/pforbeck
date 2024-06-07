@@ -16,7 +16,7 @@
 </h1>
 </div>
 
-- 🔭 I’m currently working on graduating from the University of Wisconsin - Whitewater.
+- 🔭 I’ve just graduated from the University of Wisconsin - Whitewater.
 - 🌱 I’m currently learning Deep Rock Galactic modding.
 - 📫 How to reach me: pat@forbeck.com
 - 😄 Pronouns: he/him
